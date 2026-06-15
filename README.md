@@ -1,7 +1,14 @@
 # stm32-elevator
 
-AI 온디바이스 2조 STM32와 peripheral을 활용한 엘레베이터 시스템 만들기
--> stm32로 구현한 산업용 승강기 모델
+## AI 온디바이스 2조 stm32로 구현한 산업용 리프트 모델
+
+---
+
+:triangular_flag_on_post:프로젝트 개요
+
+stm32와 peripheral을 활용한 산업용 리프트를 만들었습니다.
+
+---
 
 :sparkles:프로젝트 결과:sparkles:
 
