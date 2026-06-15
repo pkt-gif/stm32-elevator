@@ -1,4 +1,4 @@
-# stm32-elevator
+# AI Ondevice_Elevator_Project
 
 ## AI 온디바이스 2조 stm32로 구현한 산업용 리프트 모델
 
